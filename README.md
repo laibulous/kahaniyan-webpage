@@ -1,6 +1,6 @@
 # Kahaniyan – Handmade Jewellery Landing Page
 
-A **simple and minimal landing page** designed for a small **handmade jewellery business** called *Kahaniyan*(https://www.instagram.com/kahani_iyan).  
+A **simple and minimal landing page** designed for a small **handmade jewellery business** called *Kahaniyan(https://www.instagram.com/kahani_iyan)*.  
 Built using **HTML and vanilla CSS**, this project focuses on clean layout, visual balance, and clarity.
 
 ---
